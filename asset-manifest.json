@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e350364b.css",
-    "main.js": "/static/js/main.d0d3f979.js",
+    "main.css": "/static/css/main.b976cf1d.css",
+    "main.js": "/static/js/main.f448e017.js",
     "static/js/787.a84e052a.chunk.js": "/static/js/787.a84e052a.chunk.js",
     "static/media/partner1.svg": "/static/media/partner1.937a63e4836d109a20fc4fe6752d818f.svg",
     "static/media/news1.jpg": "/static/media/news1.5d775ec6706560522691.jpg",
@@ -21,17 +21,20 @@
     "static/media/backgroundTeam.svg": "/static/media/backgroundTeam.7288e5a2a758473fc531575c13ec5f27.svg",
     "static/media/partner4.svg": "/static/media/partner4.7f8a46660f45bf23824c7b8caf34a9bb.svg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/backgroundHeroImg.svg": "/static/media/backgroundHeroImg.4b0d9e869e4e6561961013ce74afc12d.svg",
     "index.html": "/index.html",
     "static/media/arrowRightGreen.svg": "/static/media/arrowRightGreen.7396c03fd9ca2963e8a87f02443f43b1.svg",
     "static/media/arrowLeftBtn.svg": "/static/media/arrowLeftBtn.f9cd2b6adca42befd245323695eedd5f.svg",
     "static/media/arrowRightBrn.svg": "/static/media/arrowRightBrn.81291073c83ded669dcc1f98272b8351.svg",
     "static/media/menuIcon.svg": "/static/media/menuIcon.ac6cddcf1dd7dcd86c98ffc658e4001b.svg",
-    "main.e350364b.css.map": "/static/css/main.e350364b.css.map",
-    "main.d0d3f979.js.map": "/static/js/main.d0d3f979.js.map",
+    "static/media/messageIconGreen.svg": "/static/media/messageIconGreen.9981a37009491ff50f54fd67b3a0e75b.svg",
+    "static/media/arrowNextMin.svg": "/static/media/arrowNextMin.8fd3fc8807cdeed4524bc921ba055833.svg",
+    "main.b976cf1d.css.map": "/static/css/main.b976cf1d.css.map",
+    "main.f448e017.js.map": "/static/js/main.f448e017.js.map",
     "787.a84e052a.chunk.js.map": "/static/js/787.a84e052a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e350364b.css",
-    "static/js/main.d0d3f979.js"
+    "static/css/main.b976cf1d.css",
+    "static/js/main.f448e017.js"
   ]
 }
